@@ -1,0 +1,5 @@
+port: 9292
+vars:
+- var:
+  name: port
+  value: 9292
